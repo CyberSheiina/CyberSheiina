@@ -29,6 +29,6 @@ I care deeply about tech that defends, educates, and empowers — and I believe 
 ## 🧰 Tech Stack (so far...)
 
 ```yaml
-Languages: Python, Bash, Markdown  
-Tools: Git, GitHub, Wireshark, Nmap  
+Languages: Python, C++, HTML  
+Tools: Git, GitHub, Wireshark  
 Fields: Cybersecurity, Digital Forensics, Ethical Hacking
