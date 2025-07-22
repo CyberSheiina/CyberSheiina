@@ -32,3 +32,10 @@ I care deeply about tech that defends, educates, and empowers — and I believe 
 Languages: Python, C++, HTML  
 Tools: Git, GitHub, Wireshark  
 Fields: Cybersecurity, Digital Forensics, Ethical Hacking
+```
+## ☕ Some Cute Facts
+I journal in 3 languages 🗒️
+
+My vibe is cozy + gothic fonts 🖤
+
+I’m building a second IG for tech & book content 📱
