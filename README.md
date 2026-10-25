@@ -20,9 +20,6 @@ I care deeply about tech that defends, educates, and empowers — and I believe 
 ## 💻 Current Projects
 
 - ✍🏾 [`book-recaps-cyberwar`](https://github.com/CyberSheiina/book-recaps-cyberwar) — Chapter-by-chapter notes & reflections
-- 🚧 TryHackMe labs & CTF writeups (coming soon!)
-- 🛠️ Python mini-tools for security & automation
-- 🌍 Cyber 101 series — explained in English & French
 
 ---
 
